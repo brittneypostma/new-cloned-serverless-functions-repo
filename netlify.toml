@@ -3,7 +3,6 @@
   command = "# no build command"
   functions = "netlify/functions"
   publish = "public"
-  environment = { NODE_VERSION = "17" }
 
 [functions]
   node_bundler = "esbuild" 
