@@ -4,6 +4,7 @@
   functions = "netlify/functions"
   publish = "public"
   environment = { NODE_VERSION = "17" }
+  node_bundler = "esbuild"
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
