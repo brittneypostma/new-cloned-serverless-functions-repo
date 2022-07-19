@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "new-cloned-serverless-functions-repo",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brittneypostma/new-cloned-serverless-functions-repo.git"
+  },
+  "author": "Brittney Postma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brittneypostma/new-cloned-serverless-functions-repo/issues"
+  },
+  "homepage": "https://github.com/brittneypostma/new-cloned-serverless-functions-repo#readme",
+  "devDependencies": {
+    "node-fetch": "^3.2.8"
+  }
+}
